@@ -1,1 +1,1 @@
-Use this repository to view sample code
+Use this repository to view sample code. These are a few of the files used to control a small motor with 3 feedback values. Various protocols were used to get the applcation working which incuded I2C, UART, SPI, etc. The files RotaryEncoder.c/h contain a sample of the SPI protocol being used in non-blocking way and interrupt way. Lab5applcation.c contains the code that used all the libraries with the necessary protocols and modules for the lab to work. 
